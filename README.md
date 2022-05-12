@@ -1,5 +1,6 @@
 ### Hi there 👋
-Welcome to my profile
+Welcome to my profile. I am currently a student at Staffordshire University and I am studying Games Development.
+I plan on switching to Games Programming in September.
 <!--
 **Rooke182/Rooke182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
